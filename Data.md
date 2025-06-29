@@ -83,3 +83,9 @@ COMPUTING SYSTEMS, CHI 2024. https://doi.org/10.1145/3613905.3650860
 
   Zheng, Q., Chen, M., Sharma, P., Tang, Y., Oswal, M., Liu, Y., & Huang, Y. (2024). EvAlignUX: Advancing UX Research through LLM-Supported Exploration of Evaluation Metrics. ArXiv Preprint. http://arxiv.org/abs/2409.15471v1
 
+  Jung, S.-G., Salminen, J., Aldous, K. K., & Jansen, B. J. (2025). PersonaCraft: Leveraging language models for data-driven persona development. International Journal of Human-Computer Studies, 197, 103445
+
+  Rapp, A., Di Lodovico, C., Torrielli, F., & Di Caro, L. (2025). How do people experience the images created by generative artificial intelligence? An exploration of people's perceptions, appraisals, and emotions related to a Gen-AI text-to-image model and its creations. International Journal of Human-Computer Studies, 193, 103375
+
+  Wu, H., Yang, H., Chang, F., Zhu, D., & Liu, Z. (2025). AI-generated tactile graphics for visually impaired children: A usability study of a multimodal educational product. International Journal of Human-Computer Studies, 193, 103525
+
